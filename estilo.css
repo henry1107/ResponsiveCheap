@@ -6,6 +6,18 @@
     text-decoration: none;
 
 }
+.enlace{
+    display: inline-block;
+    background: seagreen;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px;
+}
+.enlace:hover{
+    background: brown;
+
+}
 .nav-boton{
     background: salmon;
     color: #fff;
